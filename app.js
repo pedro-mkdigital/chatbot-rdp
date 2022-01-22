@@ -55,35 +55,35 @@ const client = new Client({
 });
 
 client.on('message', async msg => {
-  if (msg.body !== null && msg.body.includes("Quero saber mais sobre o Método ZDG.")) {
-    msg.reply("🤑 AUMENTE O FATURAMENTO DOS SEUS LANÇAMENTOS DISPARANDO MENSAGENS DIRETAMENTE PARA O WHATSAPP PESSOAL DE CADA LEAD, SEM PRECISAR DE CELULAR. DE FORMA AUTOMÁTICA E EM MASSA. \r\n\r\nhttps://zapdasgalaxias.com.br/ \r\n\r\n⏱️ As inscrições estão *ABERTAS*");
+  if (msg.body !== null && msg.body.includes("Quero saber mais sobre a Roda da Prosperidade.")) {
+    msg.reply("A RODA DA PROSPERIDADE É UM TRATAMENTO ESPIRITUAL PARA PROSPERIDADE E PROTEÇÃO, ASSIM COMO UM TRATAMENTO MÉDICO VOCÊ FAZ PARA SE CURAR, A RODA DA PROSPERIDADE FUNCIONA DA MESMA FORMA, POR ISSO QUE É ATRAVÉS DE ASSINATURA. DESSA FORMA MÃE ADÉLIA E GITANA COM A ESPIRITUALIDADE TRABALHA TODOS OS MESES PARA VOCÊ. Será realizado o envio da Apometria Sagrada Quântica, TODOS OS DIAS às 21 horas da noite durante 21 minutos, É FEITO REZA PELA VIDA DOS MEMBROS, faço limpeza energética de influências negativas, quebra de maldições, praga, inveja e olho gordo, pedindo por força e coragem para cada membro. Na área de membros do site você receberá O Decreto que é uma oração forte quântica para você fazer se quiser potencializar ainda mais o trabalho diário de Apometria Sagrada acompanhado por áudio de MATERIALIZAÇÃO DE DESEJO, um mantra especial que ajudará você a colapsar o desejo e materializa-lo com mais FACILIDADE! Você recebera a Oração Forte de Riqueza para você fazer todo dia 1° no grande dia do ritual mensal! Você terá acesso online exclusivo a vídeos PRIVADOS ou seja não são públicos, com conteúdo únicos e exclusivo, áudios e orações liberado mês a mês conforme você vai ficando na RDP, mais e mais benefícios você terá! Áudio subliminal para uso noturno com instruções, para ajudar ainda mais no seu tratamento ajudando a quebrar paradigmas e crenças limitantes que também impedem as pessoas de realizarem seu objetivos! Você vai entrar na energia do Dinheiro! Normalmente no primeiro mês as pessoas conseguem arrumar emprego, ou mudar de cargo na empresa, se trabalha com vendas, aumenta as vendas. Com o passar do tempo a Energia da boa sorte e do dinheiro começa a fazer parte da vida, dessa forma consegue coisas maiores. Você vai ganhar um Colar da Sorte feito artesanalmente para os membros da RDP, consagrado e ativo a partir do 3° mês de associado ele será enviado pra você TOTALMENTE GRATIS,frete 50 reais do Colar da Sorte, por conta do membro. Beneficio único exclusivo e extraordinário! \r\n\r\nhttps://prosperar.maeadeliaegitana.com.br/ \r\n\r\nhttpshttp://assine.maeadeliaegitana.com.br/ \r\n\r\n⏱️ As inscrições estão *ABERTAS*");
   } 
   
-  else if (msg.body !== null && msg.body.includes("Gostaria de conhecer alguns estudos de caso.")) {
-    msg.reply("*Que ótimo, vou te enviar alguns cases de sucesso:*\r\n\r\n📺 https://youtu.be/S4Cwrnn_Llk \r\nNatália: Nós aumentamos o nosso faturamento e vendemos pra mais clientes com a estratégia ZDG.\r\n\r\n📺 https://youtu.be/pu6PpNRJyoM \r\n Renato: A ZDG é um método que vai permitir você aumentar o seu faturamento em pelo menos 30%.\r\n\r\n📺 https://youtu.be/KHGchIAZ5i0 \r\nGustavo: A estratégia mais barata, eficiente e totalmente escalável.\r\n\r\n📺 https://youtu.be/XP2ns7TOdIQ \r\nYuri: A ferramenta me ajudou muito com as automações da minha loja online.\r\n\r\n📺 https://www.youtube.com/watch?v=08wzrPorZcI \r\nGabi: Implementei a estratégia sem saber nada de programação\r\n\r\n📺 https://www.youtube.com/watch?v=mHqEQp94CiE \r\nLéo: Acoplamos o Método ZDG aos nossos lançamento e otimizamos os nossos resultados.");
+  else if (msg.body !== null && msg.body.includes("Gostaria de conhecer as redes sociais de Mãe Adélia e Gitana.")) {
+    msg.reply("*Que ótimo, vou te enviar Agora Mesmo:*\r\n\r\nhttps://www.youtube.com/c/M%C3%A3eAdeliaegitana/videos .\r\n\r\nhttps://instagram.com/maeadeliaegitana/ \r\n\r\nhttps://instagram.com/rodadaprosperidadequantica/ \r\n\r\nhttps://facebook.com/maeadeliaegitana/ \r\n\r\nhttps://facebook.com/rodadaprosperidademagiaquantica \r\n\r\nhttps://www.facebook.com/rodadaprosperidade.");
   }
   
-  else if (msg.body !== null && msg.body.includes("O que vou receber entrando para a turma da ZDG?")) {
-    msg.reply("Tudo que você vai ter acesso na Comunidade ZDG.\r\n\r\nMétodo ZDG: R$5.000,00\r\nBot gestor de grupos: R$1.500,00\r\nMulti-disparador via API: R$1.800,00\r\nWebhooks: R$5.200,00\r\nExtensão do Chrome para extração: R$150,00\r\nPacote de aulas sobre grupos de WhatsApp: R$600,00\r\nPacote de aulas + downloads para implementação dos ChatBots: R$5.000,00\r\nPacote de aulas + downloads para notificações automáticas por WhatsApp: R$4.600,00\r\n\r\nNo total, tudo deveria custar:\r\nR$ 23.850,00\r\nMas você vai pagar apenas: R$197,00");
+  else if (msg.body !== null && msg.body.includes("Como faço meu cadastro na Roda da Prosperidade?")) {
+    msg.reply("PLANO STAR: R$39,90 mês https://membros.maeadeliaegitana.com.br/checkout-star/ \r\nPLANO REAL: R$59,90 mês https://membros.maeadeliaegitana.com.br/checkout-real/ \r\nPLANO VIP: R$98,90 mês https://membros.maeadeliaegitana.com.br/checkout-vip-fiel/ \r\nPlano para participar um unico mês: R$250,00 https://mpago.la/1zJsGi3");
   }
   
-  else if (msg.body !== null && msg.body.includes("Gostaria de falar com o Pedrinho, mas obrigado por tentar me ajudar.")) {
+  else if (msg.body !== null && msg.body.includes("Gostaria de falar com um assistente, mas obrigado por tentar me ajudar.")) {
 
         const contact = await msg.getContact();
         setTimeout(function() {
-            msg.reply(`@${contact.number}` + ' seu contato já foi encaminhado para o Pedrinho');  
-            client.sendMessage('5582981429694@c.us','Contato ZDG. https://wa.me/' + `${contact.number}`);
+            msg.reply(`@${contact.number}` + ' seu contato já foi encaminhado para um Assistente');  
+            client.sendMessage('5531971054859@c.us','Contato Roda da Prosperidade. https://wa.me/' + `${contact.number}`);
           },1000 + Math.floor(Math.random() * 1000));
   
   }
   
-  else if (msg.body !== null && msg.body.includes("Quero aprender como montar minha API de WhatsApp de GRAÇA.")) {
-    msg.reply("Aproveite o conteúdo e aprenda em poucos minutos como colocar sua API de WhatsAPP no ar, gratuitamente:\r\n\r\n🎥 https://youtu.be/899mKB3UHdI");
+  else if (msg.body !== null && msg.body.includes("Quero pagar minha mensalidade.")) {
+    msg.reply("Para pagamentos no boleto clique na opção acima, falar com assistente, para pagamentos no PIX:\r\n\r\n adeliagitana@gmail.com");
   }
   
   else if (msg.body !== null) {
-    let sections = [{title:'Escolha a opção desejada',rows:[{title:'1- Quero saber mais sobre o Método ZDG.', description: 'Entre agora para nossa comunidade.'},{title:'2- Gostaria de conhecer alguns estudos de caso.', description: 'Aplique o método e colha os resultados.'},{title:'3- O que vou receber entrando para a turma da ZDG?', description: 'Mais de R$20.000,00 somente em BÔNUS.'},{title:'4- Gostaria de falar com o Pedrinho, mas obrigado por tentar me ajudar.', description: 'Clica aqui que eu transfiro pra ele.'},{title:'5- Quero aprender como montar minha API de WhatsApp de GRAÇA.', description: 'Tutorial mamão com açúcar.'}]}];
-    let list = new List('😁 Olá, tudo bem? Como vai você? Escolha uma das opções abaixo para iniciarmos a nossa conversa:','Clique aqui',sections,'ZAP das Galáxias','© ZDG');
+    let sections = [{title:'Escolha a opção desejada',rows:[{title:'1- Quero saber mais sobre a Roda da Prosperidade.', description: 'Seja membro.'},{title:'2- Gostaria de conhecer as redes sociais de Mãe Adélia e Gitana.', description: 'Conheça mais mãe Adélia e Gitana.'},{title:'3- Como faço meu cadastro na Roda da Prosperidade?', description: 'Acesse os links.'},{title:'4- Gostaria de falar com um assistente, mas obrigado por tentar me ajudar.', description: 'Clica aqui que eu transfiro para um assistente.'},{title:'5- Quero pagar minha mensalidade.', description: 'pague aqui mesmo.'}]}];
+    let list = new List('😁 Olá, tudo bem? Como vai você? Escolha uma das opções abaixo para iniciarmos a nossa conversa:','CLIQUE AQUI',sections,'RODA DA PROSPERIDADE','© RDP');
     client.sendMessage(msg.from, list);
   }
 
